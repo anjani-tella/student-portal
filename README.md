@@ -1,1 +1,1 @@
-# student-portal
+### Developed a Student Portal Website to access grades, attendance, fees, and registration, optimizing administrative efficiency. Implemented timely campus announcements to keep students informed, enhancing overall educational accessibility and functionality.
